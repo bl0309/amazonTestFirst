@@ -1,5 +1,7 @@
 package long
 
-func init() {
+import "fmt"
 
+func init() {
+	fmt.Println("hi")
 }
